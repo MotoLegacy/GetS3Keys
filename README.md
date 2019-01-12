@@ -15,7 +15,7 @@ wget <br />
 
 ## Usage
 
-usage: get_S3_keys.py [-h] Domain
+usage: get_s3_keys.py [-h] Domain
 
 positional arguments:
   Domain      S3 Bucket domain name (example: test.s3.amazonaws.com)
