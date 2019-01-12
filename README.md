@@ -14,7 +14,7 @@ wget <br />
 
 
 ## Usage
-
+```
 usage: get_s3_keys.py [-h] Domain
 
 positional arguments:
@@ -22,5 +22,4 @@ positional arguments:
 
 optional arguments:
   -h, --help  show this help message and exit
-
-
+```
