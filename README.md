@@ -5,11 +5,13 @@ will log the first 1000 Keys, then use the last Key as a marker to retrieve <br 
 more Keys until all of the bucket Keys have been logged. It will then print <br />
 out a file called S3_Keys.txt containing all of the Key URLs. <br />
 
+
 ## Requirements
 
-Linux OS
-Python 3.6+
-wget
+Linux OS <br />
+Python 3.6+ <br />
+wget <br />
+
 
 ## Usage
 
